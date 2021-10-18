@@ -1,0 +1,24 @@
+Overview of the project 
+    The objective of this project is to create a lesson plan that teaches the computer science fundamentals from the perspective of the programming language of Python. Our target audience are 6th to 8th graders. We plan to create a platform that is similar to Jupyter Notebook GUI when it comes to teaching the students on how to code Python. The topics that the modules will be teaching the student can be seen in the lesson plan. 
+#bless 
+
+Introduction 
+    Greetings everyone! 
+This module is created in order for you to learn the fundamentals of the programming language called Python. Python is a programming language that can bring wonders to your imagination. You can bring your ideas to a reality through the use of Python. You can do great things from automating your school work to bringing mass destruction on the internet by creating an internet virus. You hold the power of good and bad with this knowledge. This power can be obtain in a matter of hours and this is how you can obtain this power: 
+
+
+
+Lesson Plan -- matter of hours  
+Downloading and setting up Python 
+IDLE - IDLE, cmd, powershell -- Text editor (Sublime, atom) -- instruction on how to set up visual code/the platform for ease of usage 
+Hello World → Print statements and Variables 
+To be or not to be that is the answer →   if statements and functions 
+Repetition repetition repetition → Loops (For and while (include break, else, pass, continue))
+Grocery list → Lists, tuples, arrays, dictionaries 
+Mind Maps → Control structure and Sudo Codes
+The world is your oyster → Object oriented programming (concepts, definitions, application), Scapy and Nmap (cybersecurity),Yara -- (Purchase bots), Pyinstaller (turn .py to .exe file) 
+Conclusion → Possibilities (Jobs), Projects, Platforms to practice (Leet code)
+
+
+Conclusion 
+    With the knowledge that you have learned through this module my young padawan. You have learned the fundamentals of Python as well as what possibilities lie ahead for you. From buying the latest PS5 to helping you with your homework in school.
