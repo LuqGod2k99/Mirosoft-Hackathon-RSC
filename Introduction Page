@@ -1,0 +1,76 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Overview of the project"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The objective of this project is to create a lesson plan that teaches the computer science fundamentals from the perspective of the programming \n",
+    "language of Python. Our target audience are 6th to 8th graders. We plan to create a platform that is similar to Jupyter Notebook GUI when it comes \n",
+    "to teaching the students on how to code Python. The topics that the modules will be teaching the student can be seen in the lesson plan.\n",
+    "#bless"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Introduction"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Greetings Everyone!"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This module is created in order for you to learn the fundamentals of the programming language called Python.\n",
+    "Python is a programming language that can bring wonders to your imagination. You can bring your ideas to a reality through the use of Python.\n",
+    "You can do great things from automating your school work to bringing mass destruction on the internet by creating an internet virus. \n",
+    "You hold the power of good and bad with this knowledge. This power can be obtain in a matter of hours and this is how you can obtain this power."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Lesson Plan -- matter of hours"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "1. Downloading and setting up Python \n",
+    "2. IDLE - IDLE, cmd, powershell -- Text editor (Sublime, atom) -- instruction on how to set up visual code/the platform for ease of usage \n",
+    "3. Hello World → Print statements and Variables \n",
+    "4. To be or not to be that is the answer →   if statements and functions \n",
+    "5. Repetition repetition repetition → Loops (For and while (include break, else, pass, continue))\n",
+    "6. Grocery list → Lists, tuples, arrays, dictionaries \n",
+    "7. Mind Maps → Control structure and Sudo Codes\n",
+    "8. The world is your oyster → Object oriented programming (concepts, definitions, application), Scapy and Nmap (cybersecurity),Yara -- (Purchase bots),\n",
+    "Pyinstaller (turn .py to .exe file) \n",
+    "9. Conclusion → Possibilities (Jobs), Projects, Platforms to practice (Leet code)"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  },
+  "orig_nbformat": 4
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
